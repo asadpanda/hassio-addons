@@ -1,0 +1,7 @@
+---
+channel: stable
+addons:
+  zwave-js-ui:
+    repository: hassio-addons/addon-zwave-js-ui
+    target: zwave-js-ui
+    image: ghcr.io/hassio-addons/zwave-js-ui/{arch} 
